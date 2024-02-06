@@ -4,6 +4,10 @@ A study plan for CPACC certification
 ## Certified Professional in Accessibility Core Competencies (CPACC)
 https://www.accessibilityassociation.org/s/certified-professional
 
+### General info
+High-level information about accessibility
+Passing score **_600_** out of **800**
+
 ### Prepare for the CPACC Exam
 1. [CPACC Certification Content Outline](https://www.accessibilityassociation.org/s/cpacc-certification-content-outline)
 2. [CPACC Body of Knowledge](https://www.accessibilityassociation.org/resource/IAAP_CPACC_BOK_March2020)
